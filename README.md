@@ -19,7 +19,7 @@ The dataset contains information about different champions in League of Legends,
 
 ## Visualizations
 
-### Top 5 Champions by Attack Damage
+### Plotting Top Champions by Various Metrics
 
 This plot shows the top 5 melee and ranged champions based on their attack damage. The champions with the highest attack damage are highlighted for each range type.
 
