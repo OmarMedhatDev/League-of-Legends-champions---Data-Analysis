@@ -30,7 +30,7 @@ This plot shows the top 5 melee and ranged champions based on their attack damag
 
 The histogram below illustrates the distribution of key numerical features such as attack damage, attack speed, and base HP. It provides insights into how these attributes are distributed across the champions.
 
-![Distribution of Numerical Features](![image](![image](https://github.com/user-attachments/assets/aec8b670-29a7-4987-bba1-5f6f4c44d938)
+![Distribution of Numerical Features](![image](https://github.com/user-attachments/assets/aec8b670-29a7-4987-bba1-5f6f4c44d938)
 )
 )
 
